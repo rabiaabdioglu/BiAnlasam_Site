@@ -1,0 +1,1 @@
+## Site için veritabanı tabloları 
